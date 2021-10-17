@@ -25,12 +25,14 @@ namespace Sort {
 
     }
 
-    void Less() {
+    namespace Comparison {
+        void Less() {
 
-    }
+        }
 
-    void Greater() {
+        void Greater() {
 
+        }
     }
 }
 
