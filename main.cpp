@@ -12,24 +12,26 @@ namespace Basic {
     }
 }
 
-void Quicksort() {
+namespace Sort {
+    void Quicksort() {
 
-}
+    }
 
-void Insertionsort() {
+    void Insertionsort() {
 
-}
+    }
 
-void Mergesort() {
+    void Mergesort() {
 
-}
+    }
 
-void Less() {
+    void Less() {
 
-}
+    }
 
-void Greater() {
+    void Greater() {
 
+    }
 }
 
 int main() {
