@@ -36,8 +36,13 @@ namespace Sort {
     }
 }
 
+namespace {
+    void InternalFunction() {
+
+    }
+}
+
 int main() {
-    Avg::Calculate(3.9f, 8.2f);
-    Basic::Calculate(5.5f, 52.0f);
+    Sort::Comparison::Less();
     return 0;
 }
